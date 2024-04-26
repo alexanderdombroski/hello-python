@@ -1,25 +1,17 @@
 # Overview
 
-Repository to practice using Git practices with VSCode, Python, and GitHub. Also learning how to use .gitignore files and how to push/pull.
+Repository to practice using Git practices with VSCode, Python, and GitHub. Also learning how to use .gitignore files, how to push/pull, and other basic github functions. 
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description of your software}
-
-{Describe your purpose for creating this software.}
+hello.py prints "Hello World!" in the terminal.
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
+* Created in Python 3.12.1 using VSCode
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Gitignore Documentation](https://git-scm.com/docs/gitignore)
+* [Python 3.12 Documentation](https://docs.python.org/3.12/)
