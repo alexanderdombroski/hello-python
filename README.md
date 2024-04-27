@@ -1,10 +1,10 @@
 # Overview
 
-Repository to practice using Git practices with VSCode, Python, and GitHub. Also learning how to use .gitignore files, how to push/pull, and other basic github functions. 
+Repository to practice using Git with VSCode, Python, and GitHub. Primarily learning how to use .gitignore files and experiment with merge conficts and github functions I haven't learned how to use yet. 
 
 hello.py prints "Hello World!" in the terminal.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/xs-uxljqvPg)
 
 # Development Environment
 
