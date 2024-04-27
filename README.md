@@ -4,7 +4,6 @@ Repository to practice using Git practices with VSCode, Python, and GitHub. Also
 
 hello.py prints "Hello World!" in the terminal.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
